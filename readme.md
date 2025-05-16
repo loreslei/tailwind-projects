@@ -2,6 +2,8 @@
 
 Run the following line at your code editor terminal
 
-``npm run build``
+```bash 
+npm run build
+```
 
 
