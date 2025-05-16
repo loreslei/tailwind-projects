@@ -5,11 +5,12 @@ Run the following line at your code editor terminal
 ```bash 
 git clone https://github.com/loreslei/tailwind-projects.git
 ```
-then
+Then
 
 ```bash 
 cd tailwind-basics-starter
 ```
+Finally
 
 ```bash 
 npm run build
