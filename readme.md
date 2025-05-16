@@ -10,6 +10,7 @@ Then
 
 ```bash 
 cd tailwind-basics-starter
+npm i
 ```
 Finally
 
