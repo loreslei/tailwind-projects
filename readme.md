@@ -4,6 +4,7 @@ Run the following line at your code editor terminal
 
 ```bash 
 git clone https://github.com/loreslei/tailwind-projects.git
+cd tailwind-projects
 ```
 Then
 
